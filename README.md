@@ -61,38 +61,6 @@ Here are my key project categories from 2021 to 2025, focusing on Electronics, E
 
 <br>
 
-### Featured Graduation Project (2025)
 
-<div align="center">
-  <table style="width:80%; max-width: 800px; background-color: #161b22; color: #c9d1d9; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 30px rgba(88,166,255,0.15); padding: 20px; margin: 20px auto;">
-    <tr>
-      <td style="padding: 30px; text-align: center;">
-        <h3 style="color: #58a6ff; margin: 0 0 16px 0;">Uplink Signal Decoding in NOMA-OFDM Systems Using LSTM Model</h3>
-        <p style="font-size: 1.1em; margin: 8px 0;">
-          Investigation of the Impact of Cyclic Prefix Length on Uplink Signal Decoding in NOMA-OFDM Systems Using LSTM
-        </p>
-        <p style="margin: 20px 0 10px 0; font-style: italic;">
-          Bachelor's Graduation Thesis<br>
-          Major: Electronics Engineering - Telecommunications<br>
-          High-Quality Program
-        </p>
-        <p style="margin: 10px 0; font-weight: bold;">
-          Students:<br>
-          Đinh Hồ Phúc Thiện (21207102)<br>
-          Nguyễn Bá Tuấn (21207114)
-        </p>
-        <p style="margin: 10px 0;">
-          Advisors:<br>
-          Dr. Đặng Lê Khoa<br>
-          M.Sc. Nguyễn Dũng
-        </p>
-        <p style="margin-top: 30px; font-size: 1.1em; color: #8b949e;">
-          Ho Chi Minh City University of Science – VNU-HCM<br>
-          Ho Chi Minh City – Year 2025
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- You can add more sections like badges, tech stack cards, or links to detailed repos here -->
