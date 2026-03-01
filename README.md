@@ -1,6 +1,6 @@
 ## 🚀 Highlighted Projects
 
-Here are my featured technical projects, showcasing expertise in telecommunications, machine learning for signal processing, and IoT-based healthcare systems (2021–2025).
+Here are my featured technical projects, showcasing expertise in telecommunications with machine learning for signal processing, and IoT-based healthcare/embedded systems (2021–2025).
 
 <div align="center">
   <table style="width:100%; border-collapse: separate; border-spacing: 12px; background-color: #0d1117; color: #c9d1d9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
@@ -29,13 +29,13 @@ Here are my featured technical projects, showcasing expertise in telecommunicati
       </tr>
       <tr style="background-color: #0d1117;">
         <td style="padding: 20px; vertical-align: top; font-weight: bold; color: #58a6ff;">
-          <a href="#iot-ecg" style="color: #58a6ff; text-decoration: none;">IoT-Based ECG Monitoring System using AD8232 Sensor and ESP32</a>
+          <a href="https://github.com/tuan22th4/IoT-Based-ECG-Monitoring-System-using-AD8232-Sensor-and-ESP32" style="color: #58a6ff; text-decoration: none;">IoT-Based ECG Monitoring System using AD8232 Sensor and ESP32</a>
         </td>
         <td style="padding: 20px; vertical-align: top;">
-          Real-time ECG monitoring system using AD8232 sensor interfaced with ESP32 microcontroller. Data is processed, filtered, and transmitted via Wi-Fi to a mobile/web dashboard for remote heart rate and anomaly detection. Includes signal preprocessing, BPM calculation, and cloud integration.
+          Real-time IoT-based ECG monitoring system using the AD8232 heart-rate sensor interfaced with ESP32 microcontroller. The system captures ECG signals, applies amplification and multi-stage filtering (low-pass, high-pass, 50Hz notch) to remove noise, samples via ESP32 ADC, and transmits data over Wi-Fi to the Blynk cloud platform for live waveform visualization on mobile/web dashboard. Includes circuit design, signal conditioning, BPM detection potential, and real-time remote monitoring.
         </td>
         <td style="padding: 20px; vertical-align: top;">
-          ESP32, AD8232 ECG Sensor, Arduino IDE, C/C++, Wi-Fi (MQTT/HTTP), ThingSpeak/Firebase, Python (data visualization)
+          ESP32, AD8232 ECG Sensor, AD620AN (instrumentation amp), OP07 op-amps, Arduino IDE, C/C++, Blynk IoT platform, Wi-Fi
         </td>
         <td style="padding: 20px; text-align: center; vertical-align: top;">
           2023–2024
@@ -46,5 +46,3 @@ Here are my featured technical projects, showcasing expertise in telecommunicati
 </div>
 
 <br>
-
-**Note:** The section displaying graduation thesis cover pages has been removed as requested.
