@@ -1,58 +1,44 @@
 ## 🚀 Highlighted Projects
 
-Here are my key project categories from 2021 to 2025, focusing on Electronics, Embedded Systems, and Telecommunications.
+Here are my featured technical projects, showcasing expertise in telecommunications, machine learning for signal processing, and IoT-based healthcare systems (2021–2025).
 
 <div align="center">
   <table style="width:100%; border-collapse: separate; border-spacing: 12px; background-color: #0d1117; color: #c9d1d9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
     <thead>
       <tr style="background: linear-gradient(135deg, #161b22, #0d1117);">
-        <th style="padding: 16px; text-align: left; font-size: 1.2em; border-bottom: 2px solid #30363d;">Project Category</th>
+        <th style="padding: 16px; text-align: left; font-size: 1.2em; border-bottom: 2px solid #30363d;">Project Name</th>
         <th style="padding: 16px; text-align: left; font-size: 1.2em; border-bottom: 2px solid #30363d;">Description</th>
         <th style="padding: 16px; text-align: left; font-size: 1.2em; border-bottom: 2px solid #30363d;">Tools & Technologies</th>
-        <th style="padding: 16px; text-align: center; font-size: 1.2em; border-bottom: 2px solid #30363d;">Period</th>
+        <th style="padding: 16px; text-align: center; font-size: 1.2em; border-bottom: 2px solid #30363d;">Completion</th>
       </tr>
     </thead>
     <tbody>
       <tr style="background-color: #161b22; border-radius: 8px;">
         <td style="padding: 20px; vertical-align: top; font-weight: bold; color: #58a6ff;">
-          <a href="#electronics" style="color: #58a6ff; text-decoration: none;">Electronics</a>
+          <a href="https://github.com/tuan22th4/LSTM-Based-Uplink-Signal-Decoding-for-NOMA-OFDM-Systems" style="color: #58a6ff; text-decoration: none;">LSTM-Based Uplink Signal Decoding for NOMA-OFDM Systems</a>
         </td>
         <td style="padding: 20px; vertical-align: top;">
-          Projects involving the design and development of electronic circuits, systems, and devices.
+          Bachelor's graduation thesis investigating the impact of Cyclic Prefix (CP) length on uplink signal decoding in NOMA-OFDM systems using an LSTM-DNN model. Compared performance (SER vs SNR) with traditional SIC (LS/MMSE) and ML (perfect CSI) methods, analyzing effects of CP length, pilot symbols, learning rate, and batch size.
         </td>
         <td style="padding: 20px; vertical-align: top;">
-          Circuit simulators, Multimeters, Soldering tools
+          Python, TensorFlow/Keras (LSTM), MATLAB (simulation), NumPy, Matplotlib
         </td>
         <td style="padding: 20px; text-align: center; vertical-align: top;">
-          2021 – 2025
+          2025
         </td>
       </tr>
       <tr style="background-color: #0d1117;">
         <td style="padding: 20px; vertical-align: top; font-weight: bold; color: #58a6ff;">
-          <a href="#computer-embedded" style="color: #58a6ff; text-decoration: none;">Computer and Embedded Systems</a>
+          <a href="#iot-ecg" style="color: #58a6ff; text-decoration: none;">IoT-Based ECG Monitoring System using AD8232 Sensor and ESP32</a>
         </td>
         <td style="padding: 20px; vertical-align: top;">
-          Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration.
+          Real-time ECG monitoring system using AD8232 sensor interfaced with ESP32 microcontroller. Data is processed, filtered, and transmitted via Wi-Fi to a mobile/web dashboard for remote heart rate and anomaly detection. Includes signal preprocessing, BPM calculation, and cloud integration.
         </td>
         <td style="padding: 20px; vertical-align: top;">
-          C/C++, Microcontrollers, FPGA, IDEs
+          ESP32, AD8232 ECG Sensor, Arduino IDE, C/C++, Wi-Fi (MQTT/HTTP), ThingSpeak/Firebase, Python (data visualization)
         </td>
         <td style="padding: 20px; text-align: center; vertical-align: top;">
-          2021 – 2025
-        </td>
-      </tr>
-      <tr style="background-color: #161b22; border-radius: 8px;">
-        <td style="padding: 20px; vertical-align: top; font-weight: bold; color: #58a6ff;">
-          <a href="#telecom" style="color: #58a6ff; text-decoration: none;">Telecommunications and Networks</a>
-        </td>
-        <td style="padding: 20px; vertical-align: top;">
-          Involvement in designing, simulating, and analyzing communication networks and telecommunication systems.
-        </td>
-        <td style="padding: 20px; vertical-align: top;">
-          Networking simulators, Protocol analyzers, Routers
-        </td>
-        <td style="padding: 20px; text-align: center; vertical-align: top;">
-          2021 – 2025
+          2023–2024
         </td>
       </tr>
     </tbody>
@@ -61,6 +47,4 @@ Here are my key project categories from 2021 to 2025, focusing on Electronics, E
 
 <br>
 
-
-
-<!-- You can add more sections like badges, tech stack cards, or links to detailed repos here -->
+**Note:** The section displaying graduation thesis cover pages has been removed as requested.
